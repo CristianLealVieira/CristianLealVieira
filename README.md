@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @CristianLealVieira
+- 👀 I'm interested in showing my projects and getting experience as developer.
+- 🌱 I’m currently learning HTML5, CSS3 and Javascript
+- 📫 How to reach me: my Email address: clvieiraplataformasdigitais@gmail.com; my phone: (41) 99274-7324.
