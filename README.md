@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CristianLealVieira
-- 👀 I'm interested in showing my projects and getting experience as developer.
-- 🌱 I’m currently learning HTML5, CSS3 and Javascript
-- 📫 How to reach me: my Email address: clvieiraplataformasdigitais@gmail.com; my phone: (41) 99274-7324.
+- 👋 Olá, Sou @CristianLealVieira
+- 👀 Sou desenvolvedor Front-end nível Júnior
+- 🌱 Estou utilizando e aprendendo HTML5, CSS3 e Javascript
+- 📫 Como entrar em contato comigo: lealvieiracristian@gmail.com; Meu tel/Whatsapp: (41) 99274-7324.
