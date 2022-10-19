@@ -1,4 +1,5 @@
 - 👋 Olá, Sou @CristianLealVieira
 - 👀 Sou desenvolvedor Front-end nível Júnior
 - 🌱 Estou utilizando e aprendendo HTML5, CSS3 e Javascript
-- 📫 Como entrar em contato comigo: lealvieiracristian@gmail.com; Meu tel/Whatsapp: (41) 99274-7324.
+- 📫 Como entrar em contato comigo: lealvieiracristian@gmail.com | Meu tel/Whatsapp: (41) 99274-7324 | Perfil LinkedIn: https://www.linkedin.com/in/cristian-leal-vieira-9b6129254
+- 
